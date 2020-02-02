@@ -3,8 +3,8 @@
 
 ```
 		<dependency>
-                        <groupId>af.asr.lib</groupId>
-                        <artifactId>hsm</artifactId>
+                        <groupId>af.gov.anar.lib</groupId>
+                        <artifactId>anar-lib-hsm</artifactId>
                         <version>${project.version}</version>
 		</dependency>
 
